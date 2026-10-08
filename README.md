@@ -74,7 +74,9 @@ The free plan covers the top-5 European leagues at 60 requests an hour. Pro ($5/
 
 ## More examples
 
-A live score app, an odds movement chart and an AI football assistant, each with its code: [5dollarfootballapi.com/examples](https://5dollarfootballapi.com/examples)
+- [football-live-score-app](https://github.com/5dollarfootball-api/football-live-score-app) — a live scoreboard in one Node.js file
+- [football-odds-movement-chart](https://github.com/5dollarfootball-api/football-odds-movement-chart) — chart every price move of a match
+- [All examples](https://5dollarfootballapi.com/examples)
 
 ## License
 
