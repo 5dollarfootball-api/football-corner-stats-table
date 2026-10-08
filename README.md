@@ -16,7 +16,7 @@ England Premier League 26/27, corners after round 5
 ...
 ```
 
-See it rendered live, with the walkthrough: **[5dollarfootballapi.com/examples/corner-stats-table](https://5dollarfootballapi.com/examples/corner-stats-table)**
+See the walkthrough, with sample output: **[5dollarfootballapi.com/examples/corner-stats-table](https://5dollarfootballapi.com/examples/corner-stats-table)**
 
 ## Run it
 
@@ -75,6 +75,8 @@ The free plan covers the top-5 European leagues at 60 requests an hour. Pro ($5/
 ## More examples
 
 - [football-live-score-app](https://github.com/5dollarfootball-api/football-live-score-app) — a live scoreboard in one Node.js file
+- [football-goal-alert-bot](https://github.com/5dollarfootball-api/football-goal-alert-bot) — goal alerts in Telegram or Discord
+- [football-odds-backtest](https://github.com/5dollarfootball-api/football-odds-backtest) — simple bets settled at opening vs closing odds
 - [football-odds-movement-chart](https://github.com/5dollarfootball-api/football-odds-movement-chart) — chart every price move of a match
 - [All examples](https://5dollarfootballapi.com/examples)
 
